@@ -7,7 +7,8 @@ Email: andrew.scoppa@atmosera.com
 GH handle:  andrew-scoppa
 
 ## Materials
-[qa-copilot.pdf](https://github.com/user-attachments/files/17775186/qa-copilot.pdf)
+
+[qa-copilot.pdf](https://github.com/user-attachments/files/17777391/qa-copilot.pdf)
 
 ## GitHub Copilot CLI
 
