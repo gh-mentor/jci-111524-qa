@@ -1,4 +1,4 @@
-# Welcome to the GitHub Copilot Developer Training
+# Welcome to the GitHub Copilot Training for QA Professionals
 
 Instructor: Andrew Scoppa
 
