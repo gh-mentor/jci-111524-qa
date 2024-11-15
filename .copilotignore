@@ -1,0 +1,26 @@
+# Exclude all test files
+**/tests/**
+**/*.test.js
+
+# Exclude build artifacts
+**/dist/**
+**/build/**
+**/*.o
+**/*.obj
+**/*.exe
+**/*.dll
+
+# Exclude environment-specific configuration files
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Exclude documentation
+**/docs/**
+**/*.md
+
+# Exclude temporary files
+**/*.tmp
+**/*.log
+**/.DS_Store
+**/Thumbs.db
